@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0048-rotate-image) |
+| [0118-pascals-triangle](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0118-pascals-triangle) |
 | [0867-transpose-matrix](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0867-transpose-matrix) |
 ## Matrix
 |  |
@@ -19,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0048-rotate-image) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
