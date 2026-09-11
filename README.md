@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0867-transpose-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/1929-concatenation-of-array) |
 ## Matrix
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0861-score-after-flipping-matrix](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0867-transpose-matrix) |
+| [1672-richest-customer-wealth](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
