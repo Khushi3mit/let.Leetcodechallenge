@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0240-search-a-2d-matrix-ii) |
+| [0766-toeplitz-matrix](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0766-toeplitz-matrix) |
 | [0861-score-after-flipping-matrix](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0977-squares-of-a-sorted-array) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0048-rotate-image) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0240-search-a-2d-matrix-ii) |
+| [0766-toeplitz-matrix](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0766-toeplitz-matrix) |
 | [0861-score-after-flipping-matrix](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/1672-richest-customer-wealth) |
