@@ -8,7 +8,7 @@ class Solution {
             }else{
                 num=num-1; count++;
             }
-            if(num==0) break;
+           // if(num==0) break;
         }
         return count;
     }
