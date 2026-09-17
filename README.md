@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/1929-concatenation-of-array) |
+| [2465-number-of-distinct-averages](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/2465-number-of-distinct-averages) |
 ## Matrix
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2465-number-of-distinct-averages](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/2465-number-of-distinct-averages) |
 ## Sorting
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2465-number-of-distinct-averages](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/2465-number-of-distinct-averages) |
 ## Counting Sort
 |  |
 | ------- |
@@ -109,4 +112,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0832-flipping-an-image](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [2465-number-of-distinct-averages](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/2465-number-of-distinct-averages) |
 <!---LeetCode Topics End-->
