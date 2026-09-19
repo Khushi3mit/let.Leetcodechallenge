@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0048-rotate-image) |
 | [0118-pascals-triangle](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0268-missing-number) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0240-search-a-2d-matrix-ii) |
 ## Prefix Sum
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0977-squares-of-a-sorted-array) |
@@ -109,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
@@ -124,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0509-fibonacci-number) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
