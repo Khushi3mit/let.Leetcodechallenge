@@ -1,18 +1,20 @@
 class Solution {
     public int fib(int n) {
-    //     int fun1=1;
-    //     int fun2=0;
-    //  for(int i=0;i<n;i++){
-    //     return sum;
-    //    int sum=fun1+fun2;
-    //    fun1=fun2;
-    //    sum=fun2;
+        int fun1=0;
+        int fun2=1;
+       // int sum=0;
+     for(int i=0;i<n;i++){
+       
+      int sum=fun1+fun2;
+       fun1=fun2;
+      fun2=sum;
       
-    //  }
-    if(n==0 || n==1){
-        return n;
-    }
-    return fib(n-1)+fib(n-2);
+     }
+     return fun1;
+    // if(n==0 || n==1){
+    //     return n;
+    // }
+    // return fib(n-1)+fib(n-2);
    
     }
 }
