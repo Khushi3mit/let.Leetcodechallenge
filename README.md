@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0268-missing-number) |
 | [0566-reshape-the-matrix](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0566-reshape-the-matrix) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0766-toeplitz-matrix](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0832-flipping-an-image) |
 | [0861-score-after-flipping-matrix](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0861-score-after-flipping-matrix) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0268-missing-number) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2465-number-of-distinct-averages](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/2465-number-of-distinct-averages) |
