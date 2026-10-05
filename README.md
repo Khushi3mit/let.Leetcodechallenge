@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0832-flipping-an-image) |
 | [0861-score-after-flipping-matrix](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0867-transpose-matrix) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/1480-running-sum-of-1d-array) |
 ## String
 |  |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0268-missing-number) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/1796-second-largest-digit-in-a-string) |
 | [2465-number-of-distinct-averages](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/2465-number-of-distinct-averages) |
