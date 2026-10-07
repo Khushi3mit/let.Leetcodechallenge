@@ -13,10 +13,8 @@ class Solution {
              if(sum==i){
            smallin = Math.min(smallin,i);
            return smallin;
-    }
-    
+    }  
 }
 return -1;
-
     }
 }
