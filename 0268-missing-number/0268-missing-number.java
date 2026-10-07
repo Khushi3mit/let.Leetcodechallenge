@@ -17,13 +17,20 @@ class Solution {
 // }
 // return ans;
 
-for(int i=1;i<=n;i++){
-    boolean found =false;
-    for(int num: nums){
-        if(num==i)  found =true;
+// for(int i=1;i<=n;i++){
+//     boolean found =false;
+//     for(int num: nums){
+//         if(num==i)  found =true;
+//     }
+//     if(found==false)  return i;
+// }
+// return 0;
+Arrays.sort(nums);
+for(int i=0;i<=n-1;i++){
+    if(i!=nums[i]){
+        return i;
     }
-    if(found==false)  return i;
 }
-return 0;
+return n;
     }
 }
