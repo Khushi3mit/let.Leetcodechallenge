@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0169-majority-element) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0766-toeplitz-matrix) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0268-missing-number) |
