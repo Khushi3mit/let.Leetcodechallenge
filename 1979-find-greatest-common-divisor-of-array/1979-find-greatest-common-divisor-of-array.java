@@ -23,16 +23,28 @@ class Solution {
 //             }
 
 //     return grtDiv;
-int n =nums.length;
-Arrays.sort(nums);
-int a =nums[0];
-int b =nums[n-1];
-return gcd(a,b);
+// int n =nums.length;  //
+// Arrays.sort(nums);
+// int a =nums[0];
+// int b =nums[n-1];
+// return gcd(a,b);
+//     }
+//     private int gcd(int a, int b){
+// return a==0? b: gcd(b%a,a);
+//     }     
+// }
+int min=1000;
+   int max=0;
+   for(int num: nums){
+    if(num>max){
+        max=num;
     }
-    private int gcd(int a, int b){
-return a==0? b: gcd(b%a,a);
-    } 
-
-       
-}
-   
+    if(num<min){
+        min=num;
+    }
+   }
+   return gcd(min,max);
+    }
+        private int gcd(int a, int b){
+ return a==0? b: gcd(b%a,a);
+    }}
