@@ -10,20 +10,29 @@ class Solution {
 //     }
 //    }
 // return maxi;
- 
- int n = nums.length;
-            Arrays.sort(nums);
-            int left=nums[0];
-            int right = nums[n-1];
-            int grtDiv=1;
-            for(int i=2;i<=left;i++){
-                if(left%i==0 && right%i==0){
-                 grtDiv=Math.max(grtDiv,i);
+//  int n = nums.length;
+//             Arrays.sort(nums);
+//             int left=nums[0];
+//             int right = nums[n-1];
+//             int grtDiv=1;
+//             for(int i=2;i<=left;i++){
+//                 if(left%i==0 && right%i==0){
+//                  grtDiv=Math.max(grtDiv,i);
                    
-                }
-            }
+//                 }
+//             }
 
-    return grtDiv;
-       }
+//     return grtDiv;
+int n =nums.length;
+Arrays.sort(nums);
+int a =nums[0];
+int b =nums[n-1];
+return gcd(a,b);
+    }
+    private int gcd(int a, int b){
+return a==0? b: gcd(b%a,a);
+    } 
+
+       
 }
    
