@@ -16,6 +16,7 @@ class Solution {
     //     return n;
     // }
     // return fib(n-1)+fib(n-2);
+    
     int c=0;
     if(n<2){
         return n;
