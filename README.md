@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2465-number-of-distinct-averages](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/2465-number-of-distinct-averages) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Matrix
 |  |
@@ -177,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
