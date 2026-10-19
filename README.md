@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2465-number-of-distinct-averages](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/2465-number-of-distinct-averages) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0268-missing-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2465-number-of-distinct-averages](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/2465-number-of-distinct-averages) |
 ## Counting Sort
 |  |
