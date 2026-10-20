@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/1108-defanging-an-ip-address) |
+| [1768-merge-strings-alternately](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/1796-second-largest-digit-in-a-string) |
 ## Hash Table
 |  |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0344-reverse-string) |
 | [0832-flipping-an-image](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2465-number-of-distinct-averages](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/2465-number-of-distinct-averages) |
 ## Recursion
