@@ -8,11 +8,15 @@ class Solution {
                     l.add(1);
                 }else{
                     l.add(ans.get(i-1).get(j) + ans.get(i-1).get(j-1));
-                }
+              
+                  }
+                  
+                 
             }
-            ans.add(l);
-        }
-        return ans;
-        
+              ans.add(l);
+               
+      }
+      return ans;
     }
+
 }
