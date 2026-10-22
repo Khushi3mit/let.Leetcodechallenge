@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0661-image-smoother) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0766-toeplitz-matrix](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0766-toeplitz-matrix) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0832-flipping-an-image](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0832-flipping-an-image) |
 | [0861-score-after-flipping-matrix](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0867-transpose-matrix) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0661-image-smoother) |
 | [0766-toeplitz-matrix](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0766-toeplitz-matrix) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0832-flipping-an-image](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0832-flipping-an-image) |
 | [0861-score-after-flipping-matrix](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0867-transpose-matrix) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0861-score-after-flipping-matrix](https://github.com/Khushi3mit/let.Leetcodechallenge/tree/master/0861-score-after-flipping-matrix) |
 ## Bit Manipulation
 |  |
