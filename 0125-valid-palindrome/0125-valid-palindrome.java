@@ -16,35 +16,55 @@ class Solution {
     //   }
     //   return str.equals(rev);
 
+// int i=0;
+// int j=s.length()-1;
+// while(i<j){
+//     char a =s.charAt(i);
+//     char b=s.charAt(j);
+//     if(a>='A' && a<='Z'){
+//         a = (char)(a+32); 
+//     }
+//     if(b>='A' && b<='Z'){
+//         b=(char)(b+32);
+//     }
+//     if(!((a>='a' && a<='z') || (a>='0' && a<='9'))){
+//         i++;
+
+//     }
+//     else if(!((b>='a' && b<='z') || (b>='0' && b<='9'))){
+//         j--;
+
+//     }else{
+//     if(a!=b){
+//         return false;
+//     }i++;
+//     j--;
+//     }
+//     }
+//     return true;
+
 int i=0;
 int j=s.length()-1;
-while(i<j){
-    char a =s.charAt(i);
-    char b=s.charAt(j);
-    if(a>='A' && a<='Z'){
-        a = (char)(a+32); 
-    }
-    if(b>='A' && b<='Z'){
-        b=(char)(b+32);
-    }
-    if(!((a>='a' && a<='z') || (a>='0' && a<='9'))){
+while(i<=j){
+    char curFirst = s.charAt(i);
+    char curLast = s.charAt(j);
+    if(!Character.isLetterOrDigit(curFirst)){
         i++;
-
     }
-    else if(!((b>='a' && b<='z') || (b>='0' && b<='9'))){
+    else if(!Character.isLetterOrDigit(curLast)){
         j--;
-
-    }else{
-    if(a!=b){
-        return false;
-    
-
-    }i++;
-    j--;
-
     }
+    else{
+        if(Character.toLowerCase(curFirst) != Character.toLowerCase(curLast)){
+            return false;
+        }
+        i++;
+        j--;
     }
-    return true;
+
+
+}
+return true;
 }
     }
 
